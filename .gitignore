@@ -54,3 +54,5 @@ dkms.conf
 *.o
 insertion
 bubble
+quick
+select
